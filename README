@@ -1,0 +1,5 @@
+# About this Repo
+
+This is the Git repo of the Docker [minecoins/wolf-cpuminer-multi](https://hub.docker.com/r/minecoins/wolf-cpuminer-multi/) image. See [the Docker Hub page](https://hub.docker.com/r/minecoins/wolf-cpuminer-multi/) for the full readme on how to use this Docker image.
+
+[CPUMiner-Multi](https://github.com/wolf9466/cpuminer-multi) is a multi-threaded CPU miner, Wolf's fork of LucasJones' cpuminer-multi.
